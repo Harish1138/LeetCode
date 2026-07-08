@@ -8,7 +8,7 @@ public:
         for(int i=n;i>0;i--){
             fact*=i;
         }
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         for(int i=0;i<fact;i++){
             ans.push_back(nums);
             next_permutation(nums.begin(),nums.end());
