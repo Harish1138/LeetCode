@@ -7,6 +7,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harish1138/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
