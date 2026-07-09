@@ -17,6 +17,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harish1138/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
