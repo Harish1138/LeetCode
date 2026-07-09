@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0001-two-sum](https://github.com/Harish1138/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -50,4 +51,5 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
