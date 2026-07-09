@@ -4,7 +4,7 @@ public:
         vector<int> group(n);
         group[0]=0;
         for(int i=1;i<n;i++){
-            if(abs(nums[i]-nums[i-1])<=maxDiff){
+            if(nums[i]-nums[i-1]<=maxDiff){
                 group[i]=group[i-1];
             }
             else{
