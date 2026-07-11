@@ -11,6 +11,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harish1138/LeetCode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
