@@ -4,24 +4,22 @@ public:
         if(arr.empty()){
             return {};
         }
-        // sort(arr.begin(),arr.end());
+        // vector<int> ans;
         vector<pair<int,int>> p;
         for(int i=0;i<arr.size();i++){
             p.push_back({arr[i],i});
         }
         sort(p.begin(),p.end());
         int rank=1;
-        
-        vector<int> ans(arr.size());
+        vector<int> ans(arr.size(),-1);
         ans[p[0].second]=rank;
-        for(int i=1;i<arr.size();i++){
+        for(int i=1;i<p.size();i++){
             if(p[i].first!=p[i-1].first){
                 rank++;
             }
-            ans[p[i].second]=rank;
+            ans[(p[i].second)]=rank;
         }
         return ans;
-
-
+        
     }
 };
