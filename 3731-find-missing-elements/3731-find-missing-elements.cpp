@@ -12,7 +12,7 @@ public:
 
 
             }
-            if(j==nums.size() || nums[j]!=i){
+            if( nums[j]!=i){
                 ans.push_back(i);
             }
 
