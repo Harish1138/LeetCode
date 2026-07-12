@@ -15,8 +15,10 @@ public:
                 sum+=b[j]-'0';
                 j--;
             }
-            ans.push_back((sum%2)+'0');
+
+           
             carry=sum/2;
+            ans+=to_string(sum%2);
         }
         reverse(ans.begin(),ans.end());
         return ans;
