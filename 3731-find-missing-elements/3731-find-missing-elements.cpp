@@ -7,7 +7,7 @@ public:
         int max=nums[nums.size()-1];
         int j=0;
         for(int i=min+1;i<max;i++){
-            while(j<nums.size() && nums[j]<i){
+            if(j<nums.size() && nums[j]<i){
                 j++;
 
 
