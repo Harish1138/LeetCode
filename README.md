@@ -129,4 +129,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Harish1138/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
