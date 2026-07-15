@@ -4,9 +4,9 @@ public:
         int left=0,right=height.size()-1;
         int maxArea=0;
         while(left<right){
-            int width=right-left;
+            // int width=;
             int length=min(height[left],height[right]);
-            maxArea=max(maxArea,width*length);
+            maxArea=max(maxArea,(right-left)*length);
             if(height[left]<height[right]){
                 left++;
             }
