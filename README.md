@@ -18,6 +18,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/Harish1138/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Harish1138/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
