@@ -66,6 +66,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/Harish1138/LeetCode/tree/master/3340-check-balanced-string) |
@@ -187,4 +188,5 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
