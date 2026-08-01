@@ -1,20 +1,18 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
+        int idx=-1;
         bool found=false;
-        int index;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==target){
-                index=i;
                 found=true;
+                idx=i;
                 break;
             }
-            
         }
         if(!found){
             return -1;
         }
-        
-        return index;
+        return idx;
     }
 };
