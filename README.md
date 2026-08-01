@@ -23,6 +23,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Harish1138/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Harish1138/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/Harish1138/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
