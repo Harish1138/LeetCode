@@ -20,6 +20,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harish1138/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -189,4 +192,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
