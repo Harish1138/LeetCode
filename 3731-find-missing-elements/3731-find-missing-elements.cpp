@@ -11,7 +11,10 @@ public:
             st.insert(it);
         }
         for(int i=min+1;i<max;i++){
-            if(st.find(i)==st.end()){
+            if(st.find(i)!=st.end()){
+                continue;
+            }
+            else{
                 ans.push_back(i);
             }
         }
