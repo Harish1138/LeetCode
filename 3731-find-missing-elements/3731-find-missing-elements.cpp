@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        vector<int> ans;
+        vector<int> arr;
         int min=nums[0];
         int max=nums[nums.size()-1];
         int j=0;
@@ -13,10 +13,10 @@ public:
 
             }
             if(j==nums.size() || nums[j]!=i){
-                ans.push_back(i);
+                arr.push_back(i);
             }
 
         }
-        return ans;
+        return arr;
     }
 };
