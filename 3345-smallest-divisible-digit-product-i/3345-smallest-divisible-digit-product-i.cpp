@@ -2,28 +2,25 @@ class Solution {
 public:
     int product(int n){
         int pro=1;
-        int m=n;
-        while(m>0){
-            int digit=m%10;
+        
+        while(n>0){
+            int digit=n%10;
             pro*=digit;
-            m/=10;
+            n/=10;
         }
         return pro;
     }
     int smallestNumber(int n, int t) {
         
-        int res=-1;
-        int ans=n;
-        while(ans>=n){
-            if(product(ans)%t==0){
-                res=ans;
+        int ans=-1;
+        for(int i=n;i<=n+9;i++){
+            if(product(i)%t==0){
+                ans=i;
                 break;
             }
-            else{
-                ans++;
-            }
+            
         }
-        return res;
+        return ans;
 
         
     }
