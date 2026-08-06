@@ -20,6 +20,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
