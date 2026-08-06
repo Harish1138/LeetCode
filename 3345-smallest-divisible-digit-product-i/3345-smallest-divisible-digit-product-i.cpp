@@ -11,7 +11,7 @@ public:
         return pro;
     }
     int smallestNumber(int n, int t) {
-        // bool found=false;
+        
         int res=-1;
         int ans=n;
         while(ans>=n){
