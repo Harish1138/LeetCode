@@ -4,18 +4,16 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        bool found=true;
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        vector<int> freq(26,0);
         for(int i=0;i<s.length();i++){
-            if(s[i]!=t[i]){
-                found=false;
-                break;
+            freq[s[i]-'a']++;
+            freq[t[i]-'a']--;
+        }
+        for(auto it:freq){
+            if(it!=0){
+                return false;
             }
         }
-        if(found){
-            return true;
-        }
-        return false;
+        return true;
     }
 };
