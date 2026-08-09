@@ -5,7 +5,8 @@ public:
         int n=s.length();
         int i=n-1;
 
-        while(i>=0 && s[i]==' '){
+        while(i>=0 && s[i]==' '){ // skip ' ' at the end of the string
+        
             i--;
         }
         while(i>=0 && s[i]!=' '){
