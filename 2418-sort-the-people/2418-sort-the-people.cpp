@@ -6,11 +6,11 @@ public:
             p.push_back({heights[i],names[i]});
         }
         vector<string> ans;
-        sort(p.begin(),p.end());
+        sort(p.begin(),p.end(),greater<>());
         for(auto it:p){
             ans.push_back(it.second);
         }
-        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(),ans.end());
         return ans;
     }
 };
