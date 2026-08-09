@@ -41,6 +41,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
@@ -162,6 +163,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -194,6 +196,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
