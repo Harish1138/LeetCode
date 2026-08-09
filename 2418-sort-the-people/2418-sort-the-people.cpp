@@ -5,12 +5,11 @@ public:
         for(int i=0;i<names.size();i++){
             p.push_back({heights[i],names[i]});
         }
-        vector<string> ans;
-        sort(p.begin(),p.end(),greater<>());
-        for(auto it:p){
-            ans.push_back(it.second);
+        sort(p.rbegin(),p.rend());
+        for(int i=0;i<p.size();i++){
+            names[i]=p[i].second;
+
         }
-        // reverse(ans.begin(),ans.end());
-        return ans;
+        return names;
     }
 };
