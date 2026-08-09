@@ -34,6 +34,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1920-build-array-from-permutation](https://github.com/Harish1138/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
