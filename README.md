@@ -52,6 +52,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
@@ -175,6 +177,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Harish1138/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -219,6 +222,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
@@ -255,4 +259,12 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
