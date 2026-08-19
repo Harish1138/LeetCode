@@ -23,6 +23,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Harish1138/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
@@ -261,6 +262,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Harish1138/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Game Theory
 |  |
@@ -324,4 +326,5 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Harish1138/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
