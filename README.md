@@ -13,6 +13,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0033-search-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harish1138/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Harish1138/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harish1138/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Harish1138/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/Harish1138/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harish1138/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -268,6 +270,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Harish1138/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Stack
