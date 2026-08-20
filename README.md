@@ -122,6 +122,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Harish1138/LeetCode/tree/master/3340-check-balanced-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
