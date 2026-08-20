@@ -37,6 +37,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish1138/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -224,6 +225,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish1138/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -310,6 +312,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
