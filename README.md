@@ -98,6 +98,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Harish1138/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harish1138/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
