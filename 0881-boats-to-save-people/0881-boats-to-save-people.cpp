@@ -9,9 +9,13 @@ public:
             int sum=people[left]+people[right];
             if(sum<=limit){
                 left++;
+                count++;
+                right--;
             }
-            count++;
-            right--;
+            else{
+                count++;
+                right--;
+            }
             
         }
         return count;
