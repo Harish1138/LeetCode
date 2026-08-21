@@ -31,6 +31,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harish1138/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Harish1138/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Harish1138/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Harish1138/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
