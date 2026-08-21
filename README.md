@@ -36,6 +36,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harish1138/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
