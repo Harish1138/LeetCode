@@ -19,6 +19,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish1138/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harish1138/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
