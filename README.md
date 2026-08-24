@@ -20,6 +20,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish1138/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harish1138/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harish1138/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
