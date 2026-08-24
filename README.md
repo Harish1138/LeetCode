@@ -52,6 +52,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Harish1138/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Harish1138/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2270-number-of-ways-to-split-array](https://github.com/Harish1138/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
@@ -306,6 +307,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harish1138/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Harish1138/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Game Theory
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0496-next-greater-element-i](https://github.com/Harish1138/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harish1138/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Harish1138/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Timsort
 |  |
 | ------- |
