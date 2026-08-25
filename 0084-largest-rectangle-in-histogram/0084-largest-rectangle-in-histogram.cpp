@@ -15,16 +15,18 @@ public:
             }
             st.push(i);
         }
-
-        stack<int> st2;
+        while(!st.empty()){
+            st.pop();
+        }
+        
         for(int i=n-1;i>=0;i--){
-            while(!st2.empty() && heights[st2.top()]>=heights[i]){
-                st2.pop();
+            while(!st.empty() && heights[st.top()]>=heights[i]){
+                st.pop();
             }
-            if(!st2.empty()){
-                nse[i]=st2.top();
+            if(!st.empty()){
+                nse[i]=st.top();
             }
-            st2.push(i);
+            st.push(i);
         }
 
         int area=0;
