@@ -101,6 +101,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0007-reverse-integer](https://github.com/Harish1138/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Harish1138/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Harish1138/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
@@ -406,4 +407,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harish1138/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harish1138/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
