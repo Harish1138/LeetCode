@@ -14,7 +14,17 @@ public:
         while(!st.empty() && st.top().first<=price){
             st.pop();
         }
-        ans=idx-(st.empty()?-1:st.top().second);
+        // ans=idx-(st.empty()?-1:st.top().second);
+
+        // instead of this ans=idx-(st.empty()?-1:st.top().second);
+        // use this
+        if(st.empty()){
+            ans=idx-(-1);
+        }
+        else{
+            ans=idx-st.top().second;
+        }
+        // */
 
         st.push({price,idx});
         
