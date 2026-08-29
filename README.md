@@ -25,6 +25,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -367,6 +370,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harish1138/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harish1138/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
@@ -418,6 +422,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harish1138/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Recursion
 |  |
 | ------- |
@@ -430,4 +435,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Harish1138/LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
