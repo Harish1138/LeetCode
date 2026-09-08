@@ -73,6 +73,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harish1138/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harish1138/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harish1138/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harish1138/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Harish1138/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1920-build-array-from-permutation](https://github.com/Harish1138/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
 |  |
 | ------- |
