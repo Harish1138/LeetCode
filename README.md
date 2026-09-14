@@ -209,6 +209,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0905-sort-array-by-parity](https://github.com/Harish1138/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish1138/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -473,6 +474,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0234-palindrome-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish1138/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
