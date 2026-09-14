@@ -119,6 +119,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Harish1138/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harish1138/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harish1138/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -309,6 +310,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Harish1138/LeetCode/tree/master/1291-sequential-digits) |
+| [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
@@ -482,4 +485,12 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Harish1138/LeetCode/tree/master/0319-bulb-switcher) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
