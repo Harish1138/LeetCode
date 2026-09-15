@@ -18,6 +18,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish1138/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harish1138/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -202,6 +203,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Harish1138/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harish1138/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -255,6 +257,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Harish1138/LeetCode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -364,6 +367,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -493,4 +497,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
