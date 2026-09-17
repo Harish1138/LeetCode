@@ -115,6 +115,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/Harish1138/LeetCode/tree/master/0319-bulb-switcher) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -143,6 +144,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Harish1138/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
@@ -252,6 +254,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harish1138/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
