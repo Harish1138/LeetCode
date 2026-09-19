@@ -209,6 +209,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harish1138/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Harish1138/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -262,6 +263,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Harish1138/LeetCode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0024-swap-nodes-in-pairs](https://github.com/Harish1138/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harish1138/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harish1138/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Harish1138/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -508,4 +512,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
