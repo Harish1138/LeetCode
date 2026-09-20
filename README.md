@@ -155,6 +155,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harish1138/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Harish1138/LeetCode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harish1138/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
@@ -314,6 +315,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1920-build-array-from-permutation](https://github.com/Harish1138/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harish1138/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
 |  |
