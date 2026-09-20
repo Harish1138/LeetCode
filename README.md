@@ -125,6 +125,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Harish1138/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harish1138/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harish1138/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Harish1138/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harish1138/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
