@@ -154,6 +154,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harish1138/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -224,6 +225,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish1138/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -248,6 +250,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0881-boats-to-save-people](https://github.com/Harish1138/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
