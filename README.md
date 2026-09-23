@@ -22,6 +22,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish1138/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harish1138/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Harish1138/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0001-two-sum](https://github.com/Harish1138/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Harish1138/LeetCode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Harish1138/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Harish1138/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harish1138/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harish1138/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harish1138/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
