@@ -46,6 +46,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish1138/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harish1138/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -128,6 +129,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/Harish1138/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harish1138/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish1138/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -546,4 +548,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harish1138/LeetCode/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
