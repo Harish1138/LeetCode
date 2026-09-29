@@ -163,6 +163,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -384,6 +385,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0901-online-stock-span](https://github.com/Harish1138/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harish1138/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harish1138/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Game Theory
 |  |
@@ -552,4 +554,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
