@@ -28,6 +28,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
 | [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harish1138/LeetCode/tree/master/0414-third-maximum-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harish1138/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Harish1138/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harish1138/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
@@ -232,6 +234,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0141-linked-list-cycle](https://github.com/Harish1138/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harish1138/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Harish1138/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -276,6 +279,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0029-divide-two-integers](https://github.com/Harish1138/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -428,6 +432,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -550,6 +555,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harish1138/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
 | ------- |
