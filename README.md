@@ -150,6 +150,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0008-string-to-integer-atoi](https://github.com/Harish1138/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harish1138/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Harish1138/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0125-valid-palindrome) |
@@ -187,6 +188,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
 ## Binary Search
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harish1138/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -564,5 +567,6 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
