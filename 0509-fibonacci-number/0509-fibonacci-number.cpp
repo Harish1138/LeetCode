@@ -1,16 +1,17 @@
 class Solution {
 public:
-    int fibb(int n){
-        if(n<1){
-            return 0;
-        }
-        else if(n==1){
+    int fib(int n) {
+        int a=0,b=1;
+        int c=0;
+        if(n==1){
             return 1;
         }
-        return fibb(n-1)+fibb(n-2);
-    }
-    int fib(int n) {
-        return fibb(n);
-        
+        for(int i=1;i<n;i++){
+            c=a+b;
+            a=b;
+            b=c;
+            
+        }
+        return c;
     }
 };
