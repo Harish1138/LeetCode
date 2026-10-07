@@ -159,6 +159,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0125-valid-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harish1138/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harish1138/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Harish1138/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
@@ -197,6 +198,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Harish1138/LeetCode/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harish1138/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive
 |  |
