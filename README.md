@@ -70,6 +70,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harish1138/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harish1138/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Harish1138/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -336,6 +337,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harish1138/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
