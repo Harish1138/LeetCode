@@ -18,22 +18,14 @@ class Solution {
 
     }
     public boolean halvesAreAlike(String s) {
-        String s1="";
-        String s2="";
+        
         int n=s.length();
         int half=n/2;
+        String s1=s.substring(0,half);
+        String s2=s.substring(half);
 
 
-        for(int i=0;i<n;i++){
-            if(i<half){
-                s1+=s.charAt(i);
-
-                
-            }
-            else{
-                s2+=s.charAt(i);
-            }
-        }
+        
         return alike(s1,s2);
 
 
