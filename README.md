@@ -132,6 +132,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0066-plus-one](https://github.com/Harish1138/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harish1138/LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Harish1138/LeetCode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
@@ -280,6 +281,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0022-generate-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harish1138/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Harish1138/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
@@ -526,6 +528,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harish1138/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harish1138/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Harish1138/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Database
