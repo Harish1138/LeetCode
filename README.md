@@ -146,6 +146,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harish1138/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish1138/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harish1138/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Harish1138/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -187,6 +188,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harish1138/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Harish1138/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Harish1138/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2351-first-letter-to-appear-twice](https://github.com/Harish1138/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
