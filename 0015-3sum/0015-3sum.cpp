@@ -18,10 +18,10 @@ public:
                     left++;
                     right--;
                 
-                    while(left<right && nums[left]==nums[left-1]){
+                    while(left<n && nums[left]==nums[left-1]){
                         left++;
                     }
-                    while(left<right && nums[right]==nums[right+1]){
+                    while(right>=0 && nums[right]==nums[right+1]){
                         right--;
                     }
                 }
