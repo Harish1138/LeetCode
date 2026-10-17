@@ -9,6 +9,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0001-two-sum](https://github.com/Harish1138/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harish1138/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harish1138/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harish1138/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harish1138/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harish1138/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harish1138/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harish1138/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harish1138/LeetCode/tree/master/0027-remove-element) |
@@ -335,6 +337,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harish1138/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harish1138/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Harish1138/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
