@@ -152,6 +152,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harish1138/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Harish1138/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/Harish1138/LeetCode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
