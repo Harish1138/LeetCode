@@ -109,6 +109,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0383-ransom-note](https://github.com/Harish1138/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harish1138/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harish1138/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harish1138/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Harish1138/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +190,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harish1138/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Harish1138/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
@@ -519,6 +521,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harish1138/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harish1138/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish1138/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Harish1138/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harish1138/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
