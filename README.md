@@ -29,6 +29,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0152-maximum-product-subarray](https://github.com/Harish1138/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harish1138/LeetCode/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Harish1138/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harish1138/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Harish1138/LeetCode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
@@ -420,6 +422,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Harish1138/LeetCode/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harish1138/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -532,6 +535,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -539,15 +543,18 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Monotonic Stack
 |  |
