@@ -147,6 +147,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Harish1138/LeetCode/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harish1138/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -531,12 +532,14 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3765-complete-prime-number](https://github.com/Harish1138/LeetCode/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
