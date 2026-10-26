@@ -87,6 +87,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harish1138/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harish1138/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2235-add-two-integers](https://github.com/Harish1138/LeetCode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harish1138/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harish1138/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -539,6 +541,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3765-complete-prime-number](https://github.com/Harish1138/LeetCode/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
@@ -546,6 +549,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
