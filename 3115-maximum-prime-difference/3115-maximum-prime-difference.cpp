@@ -12,24 +12,16 @@ public:
         return true;
     }
     int maximumPrimeDifference(vector<int>& nums) {
-        int ind=-1;
-        int low=0;
         int maxi=INT_MIN;
+        int left=0,right=nums.size()-1;
         int n=nums.size();
-        for(int high=0;high<n;high++){
-            if(low==n){
-                break;
-            }
-            while(!isPrime(nums[low])){
-                low++;
-            }
-            if(isPrime(nums[low]) && isPrime(nums[high])){
-                ind=abs(high-low);
-                maxi=max(maxi,ind);
-            }
-
+        while(left<n && !isPrime(nums[left])){
+            left++;
         }
-        return maxi;
+        while(right>=0 && !isPrime(nums[right])){
+            right--;
+        }
+        return right-left;
 
 
         
