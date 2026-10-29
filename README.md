@@ -40,6 +40,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0503-next-greater-element-ii](https://github.com/Harish1138/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harish1138/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish1138/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Harish1138/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish1138/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Harish1138/LeetCode/tree/master/0735-asteroid-collision) |
@@ -327,6 +328,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Harish1138/LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harish1138/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Harish1138/LeetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Harish1138/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Harish1138/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harish1138/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
