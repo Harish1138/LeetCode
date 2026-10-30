@@ -150,6 +150,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Harish1138/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Harish1138/LeetCode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Harish1138/LeetCode/tree/master/0877-stone-game) |
@@ -252,6 +253,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harish1138/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Harish1138/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish1138/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harish1138/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
