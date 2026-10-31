@@ -76,6 +76,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1991-find-the-middle-index-in-array](https://github.com/Harish1138/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harish1138/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harish1138/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2270-number-of-ways-to-split-array](https://github.com/Harish1138/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -216,6 +217,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Harish1138/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Harish1138/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harish1138/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Harish1138/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
