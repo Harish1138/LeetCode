@@ -66,6 +66,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish1138/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/Harish1138/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Harish1138/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Harish1138/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harish1138/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Harish1138/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Stack
 |  |
