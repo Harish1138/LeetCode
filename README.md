@@ -362,6 +362,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0029-divide-two-integers](https://github.com/Harish1138/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Harish1138/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
