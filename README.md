@@ -61,6 +61,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harish1138/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harish1138/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -270,6 +271,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0704-binary-search](https://github.com/Harish1138/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish1138/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harish1138/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harish1138/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -313,6 +315,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0905-sort-array-by-parity](https://github.com/Harish1138/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harish1138/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harish1138/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harish1138/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -397,6 +400,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harish1138/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Harish1138/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
