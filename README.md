@@ -57,6 +57,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0989-add-to-array-form-of-integer](https://github.com/Harish1138/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harish1138/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harish1138/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harish1138/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harish1138/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -419,11 +421,13 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harish1138/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harish1138/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive
 |  |
@@ -461,6 +465,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harish1138/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Harish1138/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Harish1138/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Harish1138/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -478,6 +483,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0036-valid-sudoku](https://github.com/Harish1138/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Harish1138/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Harish1138/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harish1138/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Harish1138/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
