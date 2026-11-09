@@ -155,6 +155,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0069-sqrtx](https://github.com/Harish1138/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harish1138/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harish1138/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Harish1138/LeetCode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
@@ -438,6 +439,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Harish1138/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harish1138/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harish1138/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Harish1138/LeetCode/tree/master/0735-asteroid-collision) |
@@ -570,6 +572,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harish1138/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harish1138/LeetCode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Harish1138/LeetCode/tree/master/0866-prime-palindrome) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
