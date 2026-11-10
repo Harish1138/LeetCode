@@ -178,6 +178,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Harish1138/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2544-alternating-digit-sum](https://github.com/Harish1138/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harish1138/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
