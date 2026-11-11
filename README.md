@@ -96,6 +96,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harish1138/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harish1138/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harish1138/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harish1138/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Harish1138/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Harish1138/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harish1138/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harish1138/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
