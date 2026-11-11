@@ -175,6 +175,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harish1138/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Harish1138/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harish1138/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Harish1138/LeetCode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Harish1138/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -359,6 +360,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harish1138/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harish1138/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harish1138/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harish1138/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harish1138/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harish1138/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
