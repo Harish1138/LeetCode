@@ -85,6 +85,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Harish1138/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish1138/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harish1138/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -179,6 +180,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harish1138/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Harish1138/LeetCode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish1138/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Harish1138/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
