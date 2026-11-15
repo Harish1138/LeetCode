@@ -88,6 +88,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harish1138/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harish1138/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harish1138/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harish1138/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -461,6 +462,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1929-concatenation-of-array](https://github.com/Harish1138/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harish1138/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harish1138/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harish1138/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
