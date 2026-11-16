@@ -55,6 +55,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0976-largest-perimeter-triangle](https://github.com/Harish1138/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish1138/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harish1138/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Harish1138/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Harish1138/LeetCode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/Harish1138/LeetCode/tree/master/1051-height-checker) |
 | [1267-count-servers-that-communicate](https://github.com/Harish1138/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -386,6 +387,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Harish1138/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harish1138/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Harish1138/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1386-cinema-seat-allocation](https://github.com/Harish1138/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Harish1138/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Harish1138/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
