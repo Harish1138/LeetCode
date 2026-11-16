@@ -91,6 +91,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harish1138/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/Harish1138/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harish1138/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Harish1138/LeetCode/tree/master/2942-find-words-containing-character) |
