@@ -111,6 +111,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harish1138/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harish1138/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3921-score-validator](https://github.com/Harish1138/LeetCode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3498-reverse-degree-of-a-string](https://github.com/Harish1138/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harish1138/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harish1138/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/Harish1138/LeetCode/tree/master/3921-score-validator) |
 | [4030-check-ascii-palindromic](https://github.com/Harish1138/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Prefix Sum
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harish1138/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harish1138/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Harish1138/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3921-score-validator](https://github.com/Harish1138/LeetCode/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
 | ------- |
