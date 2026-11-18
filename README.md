@@ -192,6 +192,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2523-closest-prime-numbers-in-range](https://github.com/Harish1138/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Harish1138/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [2843-count-symmetric-integers](https://github.com/Harish1138/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3115-maximum-prime-difference](https://github.com/Harish1138/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harish1138/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -480,6 +481,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2427-number-of-common-factors](https://github.com/Harish1138/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harish1138/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harish1138/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/Harish1138/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harish1138/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3765-complete-prime-number](https://github.com/Harish1138/LeetCode/tree/master/3765-complete-prime-number) |
 ## Counting Sort
