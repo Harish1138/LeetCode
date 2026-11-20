@@ -90,6 +90,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harish1138/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harish1138/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harish1138/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harish1138/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harish1138/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Harish1138/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -375,6 +376,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harish1138/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harish1138/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harish1138/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Harish1138/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harish1138/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -432,6 +434,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harish1138/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harish1138/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Harish1138/LeetCode/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harish1138/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harish1138/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harish1138/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harish1138/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
