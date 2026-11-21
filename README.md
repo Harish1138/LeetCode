@@ -233,6 +233,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0451-sort-characters-by-frequency](https://github.com/Harish1138/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Harish1138/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Harish1138/LeetCode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Harish1138/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Harish1138/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Harish1138/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harish1138/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -749,4 +750,8 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [1021-remove-outermost-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harish1138/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harish1138/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harish1138/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
