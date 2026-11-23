@@ -390,6 +390,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 | [0029-divide-two-integers](https://github.com/Harish1138/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harish1138/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harish1138/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Harish1138/LeetCode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Harish1138/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Harish1138/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Harish1138/LeetCode/tree/master/0338-counting-bits) |
@@ -552,6 +553,7 @@ A collection of LeetCode problem solutions, organized by topic and difficulty, t
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harish1138/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Harish1138/LeetCode/tree/master/0190-reverse-bits) |
 | [0324-wiggle-sort-ii](https://github.com/Harish1138/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
